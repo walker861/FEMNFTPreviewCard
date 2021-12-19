@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+body {
+    box-sizing: border-box;
+    margin: 88px 24px;
+    background-color: hsl(217, 54%, 11%);
+    color: hsl(215, 51%, 70%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    min-width: 375px;
+    max-width: 1440px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    padding: 24px;
+    width: 288px;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 16px;
+    display: grid;
+}
+
+.main-img {
+    position: relative;
+}
+
+.equilibrium {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.view {
+    position: absolute;
+    padding: 120px;
+    top: 0;
+    left: 0;
+    background-color:hsl(178, 100%, 50%);
+    border-radius: 8px;
+    opacity: 1%;
+    cursor: pointer;
+}
+
+.view:hover {
+    opacity: 80%;
+}
+
+
+h1 {
+    color:hsl(0, 0%, 100%);
+    font-weight: 600;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+h1:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+.stats {
+    display: flex;
+    justify-content: space-between;
+    padding: 8px 0px;
+}
+
+.icon {
+    padding-right: 8px;
+    height: 16px;
+}
+
+#balance #time{
+    display: flex;
+}
+
+.balance {
+    color: hsl(178, 100%, 50%);
+    font-weight: 600;
+}
+
+.time {
+    font-weight: 400;
+}
+
+.break {
+    border: 1px solid hsl(215, 51%, 70%);
+}
+
+.avatar {
+    border: 1px solid hsl(0, 0%, 100%);
+    border-radius: 100px;
+    height: 2em;
+}
+
+.creator {
+    padding-left: 16px;
+}
+
+.name {
+    color:hsl(0, 0%, 100%);
+    cursor: pointer;
+}
+
+.name:hover {
+    color: hsl(178, 100%, 50%);
+}
+
+.author {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.attribution { font-size: 11px; text-align: center; }
+
+.attribution a { color: hsl(228, 45%, 44%); }
