@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![NFT card]("design/nft-card-solution.png")
+![NFT card](design/NFT-solution.png)
 
 
 ### Links
