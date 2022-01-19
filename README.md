@@ -1,6 +1,6 @@
 # Frontend Mentor - NFT preview card component solution
 
-This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [NFT preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Screenshot
 
-![NFT card](design/NFT-solution.png)
+![]("/design/nft-card-solution.png")
 
 
 ### Links
@@ -48,12 +48,12 @@ Users should be able to:
 
 ### What I learned
 
-This is my first Frontend Mentor challenge. Needless to say, I learned a lot from it. I did not know how to apply a hover property in CSS until this project. I took the opportunity to use grid and flex in this project as well to layout the area with the icons and text.
+This is my first Frontend Mentor challenge. Needless to say, I learned a lot from it. I did not know how to apply a hover property in CSS until this project. I took the opportunity to use grid and flex in this project as well to layout the area with the icons and text. 
 
 
 ### Continued development
 
-I need to continue to refine my skill with proper planning, positioning and writing concise code.
+I need to continue to refine my skill with proper planning, positioning and writing concise code. 
 
 
 ### Useful resources
@@ -65,7 +65,7 @@ I need to continue to refine my skill with proper planning, positioning and writ
 ## Author
 
 - Website - [Brandon Walker] - Web Site Not Created Yet
-- Frontend Mentor - [@walker861](https://www.frontendmentor.io/profile/walker861)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
 - Twitter - [@bwalkerDPT](https://www.twitter.com/bwalkerDPT)
 
 
